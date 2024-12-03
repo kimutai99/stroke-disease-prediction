@@ -1,2 +1,8 @@
 pandas
+numpy
+flask
+matplotlib
+scikit-learn
+xgboost
+
 #-e .

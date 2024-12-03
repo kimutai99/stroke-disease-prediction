@@ -18,7 +18,7 @@ setup(
     version='0.0.0.0'
     author='BrianSiele',
     author_email='korosbrian574@gmail.com',
-    packages=find_packages()
+    packages=find_packages(),
     install_requires=get_requirements('requirements.txt')
     
 )
